@@ -16,9 +16,9 @@ _Thank you for taking the time to review my work!_
 
 | Project Name | Course | Description | Link |
 |--------------|--------|------------|-------|
-| WallWanderer | CSCI 360 - Robotic Perception & Planning (*Spring 2023*) | An autonomous maze-solving robot. This collaborative project demonstrates my experience with embedded systems, algorithm design, and sensors/actuators. | [Link](www.example.com) |
-| ZebraPuzzle | CSCI 330 - Programming Languages (*Fall 2024*) | An expert system implemented using Prolog to solve the Zebra Puzzle. This project demonstrates my knowledge of declarative programming and dev container utilization. | [Link](www.example.com) |
-| KaminskyAttack | CSCI 465 - Network/Application Security (*Fall 2025*) | A simulation of the Kaminsky DNS attack in a controlled environment. This project demonstrates my experience with networking concepts | [Link](www.example.com) |
+| WallWanderer | CSCI 360 - Robotic Perception & Planning (*Spring 2023*) | An autonomous maze-solving robot. This collaborative project demonstrates my experience with embedded systems, algorithm design, and sensors/actuators. | [Link](https://github.com/parkerStacy19/portfolio/tree/main/WallWanderer) |
+| ZebraPuzzle | CSCI 330 - Programming Languages (*Fall 2024*) | An expert system implemented using Prolog to solve the Zebra Puzzle. This project demonstrates my knowledge of declarative programming and dev container utilization. | [Link](https://github.com/parkerStacy19/portfolio/tree/main/ZebraPuzzle) |
+| KaminskyAttack | CSCI 465 - Network/Application Security (*Fall 2025*) | A simulation of the Kaminsky DNS attack in a controlled environment. This project demonstrates my experience with networking concepts | [Link](https://github.com/parkerStacy19/portfolio/tree/main/KaminskyAttack) |
 ---
 
 ## Contact
